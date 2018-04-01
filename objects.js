@@ -1,1 +1,2 @@
-var playlist = {key,
+var playlist = {key: 'value'}
+
